@@ -1,5 +1,7 @@
 #!/usr/bin/env python3
-"""defines a function that waits randomly"""
+"""
+defines a function that waits randomly
+"""
 import asyncio
 import random
 
